@@ -1,0 +1,64 @@
+loops in python
+=====
+for loops
+nested loop
+
+
+
+while loops
+===========
+start
+step 
+stop
+
+
+syntax:
+         start
+          while<statement>
+          statement
+          increment/decrement
+
+difference for-loop vs while-loop:
+==============
+for-loop bounded loop--->fixed number of times
+While-loop-->unbounded loops--->number of times is not fixed
+
+
+
+
+functions:
+========
+It is a sub part aof a program which is used to perform a 
+particular atsk..
+-It is a mini program used to perform a particular task
+ 
+
+
+addition-function
+subtraction-function
+ADVANTAGES
+addition-code-not necessary to write the codes again
+less-number of lines codes
+redability
+no complexity--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

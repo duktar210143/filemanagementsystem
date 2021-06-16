@@ -1,0 +1,58 @@
+technique/structure
+========
+1. conditional statement?decision making statement
+2. control structure---iteration(loop)
+3. function
+
+programming language:all
+syntax is different
+
+
+Iteration(loop)-->repetation
+================
+Advantages:
+-provides codes reusability
+-we do not need to write the same code again and again
+-we can traverse over the elements of data structure(sequence)
+sequence>-string,list,tuple
+
+python- loop types--for loop and while loop
+
+FOR LOOP 
+==============
+1.traverse in sequance
+2. execute statement "n" of times
+Syntax for <varname> in sequence:
+       statement
+
+name='s o f t w a r i c a'->elements
+index=0 1 2 3--->index number
+
+syntax :for <var_name> in range(start,stop,step):
+     statement
+
+
+
+
+
+range(start,stop,step)
+by default step is 1
+if i give one number
+by default start is 0 
+
+
+range(1,11,2)-->1,3,5,7,9
+range()1,11,3)-->1,4,7,10
+
+
+
+
+
+
+
+
+
+
+
+
+
